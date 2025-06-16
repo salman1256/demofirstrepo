@@ -1,0 +1,14 @@
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\bin\Debug\net8.0\ConsoleAppGitExample.exe
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\bin\Debug\net8.0\ConsoleAppGitExample.deps.json
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\bin\Debug\net8.0\ConsoleAppGitExample.runtimeconfig.json
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\bin\Debug\net8.0\ConsoleAppGitExample.dll
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\bin\Debug\net8.0\ConsoleAppGitExample.pdb
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.AssemblyInfoInputs.cache
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.AssemblyInfo.cs
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.csproj.CoreCompileInputs.cache
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.dll
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\refint\ConsoleAppGitExample.dll
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.pdb
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.genruntimeconfig.cache
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ref\ConsoleAppGitExample.dll
