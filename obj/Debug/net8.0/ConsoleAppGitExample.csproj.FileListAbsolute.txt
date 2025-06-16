@@ -12,3 +12,4 @@ D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\refint\Conso
 D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.pdb
 D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.genruntimeconfig.cache
 D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ref\ConsoleAppGitExample.dll
+D:\Myapp\ConsoleAppGitExample\ConsoleAppGitExample\obj\Debug\net8.0\ConsoleAppGitExample.sourcelink.json

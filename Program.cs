@@ -9,6 +9,7 @@
             Console.WriteLine("Enter user Name");
             userName = Console.ReadLine();
             Console.WriteLine("Welcome "+userName);
+            Console.WriteLine("Welcome Back");
         }
     }
 }
